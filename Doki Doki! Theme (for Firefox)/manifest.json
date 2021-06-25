@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Doki Doki! Theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center center"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(251, 229, 235)",
+      "toolbar_text": "rgb(146, 60, 78)",
+      "frame": "rgb(200, 71, 129)",
+      "tab_background_text": "rgb(60, 18, 26)",
+      "toolbar_field": "rgb(251, 170, 210)",
+      "toolbar_field_text": "rgb(60, 18, 26)",
+      "tab_line": "rgb(60, 18, 26)",
+      "popup": "rgb(250, 201, 228)",
+      "popup_text": "rgb(183, 114, 158)",
+      "tab_loading": "rgb(60, 18, 26)"
+    }
+  }
+}
